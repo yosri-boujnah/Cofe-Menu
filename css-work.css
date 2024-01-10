@@ -1,0 +1,33 @@
+img {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    height: 300PX;
+    width: 300px;
+    border: 1rem solid;
+  }
+ .title{
+   color:grey; 
+   text-decoration:underline;
+  }
+  body{
+    background-color: rgb(195, 195, 195);
+    
+  }
+  .butt{
+    background-color: white ;
+    border: 2pxpx;
+    color:#4e008e;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration:underline;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .item{
+    display: flex
+ }
+ h2{
+    color:slateblue;
+ }
