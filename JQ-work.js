@@ -84,7 +84,8 @@ function show(All) {
              <div> <img src=${element.img}></div>
              <div> <h2>${element.name}</h2> &nbsp;
               <h2>${element.price}</h2>&nbsp;
-              <h2>${element.ingredient}</h2></div>`)
+              <h2>${element.ingredient}</h2>
+              <button>Buy</button></div>`)
            })
 }
 // show (All)
