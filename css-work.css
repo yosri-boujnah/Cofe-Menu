@@ -26,8 +26,10 @@ img {
     cursor: pointer;
   }
   .item{
-    display: flex
- }
+    display: flex;
+    justify-content:space-around;
+}
  h2{
     color:slateblue;
+
  }
